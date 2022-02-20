@@ -1,0 +1,20 @@
+{
+  "name": "spotify-clem-rankings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bent": "^7.3.12",
+    "colors": "^1.4.0",
+    "csv-parse": "^5.0.4",
+    "csv-stringify": "^6.0.5",
+    "puppeteer": "^13.3.2"
+  }
+}
